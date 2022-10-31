@@ -9,8 +9,8 @@
 Não tem nada neste seção por se tratar somente de preparar o ambiente de trabalho.
 # 
 #### Seção 02: Python Básico (Lógica de programação)
-* [aula01-comentários de código em python](https://github.com/LucianMontibeller/curso_udemy_Python-3-completo/tree/main/secao02-python-basico/aula01)
-* [aula02-O Comando print](https://github.com/LucianMontibeller/curso_udemy_Python-3-completo/tree/main/secao02-python-basico/aula02)
+* [aula01-comentários de código em python](https://github.com/LucianMontibeller/curso_udemy_Python-3-completo/tree/main/Conteudo_do_curso/secao02-python-basico/aula01)
+* [aula02-O Comando print](https://github.com/LucianMontibeller/curso_udemy_Python-3-completo/tree/main/Conteudo_do_curso/secao02-python-basico/aula02)
 
 
 
