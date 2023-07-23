@@ -18,11 +18,6 @@ Não tem nada neste seção por se tratar somente de preparar o ambiente de trab
 * [aula07-Introdução-Formatação de Strings](https://github.com/LucianMontibeller/curso_udemy_Python-3-completo/tree/main/Conteudo_do_curso/secao02-python-basico/aula07-introducao-formatacao-string)
 * [aula08-Desafio](https://github.com/LucianMontibeller/curso_udemy_Python-3-completo/tree/main/Conteudo_do_curso/secao02-python-basico/aula08-desafio)
 
-* [Acesse os PDFs das aulas clicando aqui](https://github.com/gustavoguanabara/html-css/tree/master/aulas-pdf)
-* [Código disponível para os exercícios](https://github.com/gustavoguanabara/html-css/tree/master/exercicios)
-* [Execute os exercícios aqui](https://gustavoguanabara.github.io/html-css/exercicios/)
-* [Resolva os desafios de HTML aqui](https://github.com/gustavoguanabara/html-css/tree/master/desafios)
-
 
 
 
