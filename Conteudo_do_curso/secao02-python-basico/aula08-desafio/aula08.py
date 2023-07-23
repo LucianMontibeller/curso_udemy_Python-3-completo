@@ -7,7 +7,7 @@ obter o IMC da pessoa com 2 casas decimais (peso e na altura da pessoa)
 exibir um texto com todos os valores na tela usando F-Strings (com as chaves)
 '''
 
-nome  = 'Lucian'
+nome = 'Lucian'
 idade = 33
 altura = 1.8
 peso = 77.0
