@@ -20,6 +20,8 @@ Não tem nada neste seção por se tratar somente de preparar o ambiente de trab
 
 * [aula09-introducao-tipo-de-dados](https://github.com/LucianMontibeller/curso_udemy_Python-3-completo/tree/main/Conteudo_do_curso/secao02-python-basico/aula09-introducao-tipo-de-dados)
 
+* [aula10-coercao-de-tipos](https://github.com/LucianMontibeller/curso_udemy_Python-3-completo/tree/main/Conteudo_do_curso/secao02-python-basico/aula10-coercao-de-tipos)
+
 
 
 
