@@ -22,6 +22,8 @@ Não tem nada neste seção por se tratar somente de preparar o ambiente de trab
 
 * [aula10-coercao-de-tipos](https://github.com/LucianMontibeller/curso_udemy_Python-3-completo/tree/main/Conteudo_do_curso/secao02-python-basico/aula10-coercao-de-tipos)
 
+* [aula11-introducao-variaveis](https://github.com/LucianMontibeller/curso_udemy_Python-3-completo/tree/main/Conteudo_do_curso/secao02-python-basico/aula11-introducao-variaveis)
+
 
 
 
